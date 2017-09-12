@@ -1,6 +1,6 @@
 {
-  "name": "FirstApp",
-  "short_name": "FirstApp",
-  "start_url": "/",
-  "display": "standalone"
+	"name": "FirstApp",
+	"short_name": "FirstApp",
+	"start_url": "/",
+	"display": "standalone"
 }
